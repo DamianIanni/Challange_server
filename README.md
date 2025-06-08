@@ -109,6 +109,3 @@ By default, the server listen to `localhost:8080`, if needed change the listenin
 # Security
 
 This simple server is not intended for production usage. The code has some security issues left intentionally for the challenge.  
-# Challange_Local_Server
-# Challange_server
-# Challange_server
